@@ -4,6 +4,7 @@
 
 - [Introductory Problems](#introductory-problems)
   - [Weird Algorithm](#weird-algorithm)
+  - [Missing Number](#missing-number)
 
 ## Introductory Problems
 
